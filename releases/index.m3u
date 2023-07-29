@@ -1,7 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV1HD.png" group-title="中央电视台",CCTV-1 综合
 http://39.134.39.39/PLTV/88888888/224/3221226247/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV2HD.png" group-title="中央电视台",CCTV-2 综合
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV2HD.png" group-title="中央电视台",CCTV-2 财经
 https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?BR=td
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV3HD.png" group-title="中央电视台",CCTV-3 综艺
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8?BR=td
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV13HD.png" group-title="中央电视台",CCTV-13 新闻
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1_720P/playlist.m3u8
