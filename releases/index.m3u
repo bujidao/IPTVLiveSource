@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="中央电视台",CCTV1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 group-title="中央电视台",CCTV新闻
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中央电视台",CCTV1高清
+rtp://235.254.198.51:1480
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV13HD.png" group-title="中央电视台",CCTV-13 新闻
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1_720P/playlist.m3u8
+
 
