@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV1HD.png" group-title="中央电视台",CCTV-1 高清
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV1HD.png" group-title="中央电视台",CCTV-1 综合
 http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/1.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV2HD.png" group-title="中央电视台",CCTV-2 综合
+http://129.226.107.225/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/1.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://bujidao.github.io/IPTVLiveSource/releases/logos/CCTV/CCTV13HD.png" group-title="中央电视台",CCTV-13 新闻
 https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1_720P/playlist.m3u8
