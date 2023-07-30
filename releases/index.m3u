@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="test" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/3e9d06fd7244d950df5838750f1c6ac3456e172b51caca2c16d2282125b111e8.png?imageMogr2/format/webp" group-title="中央电视台",北邮测试cctv1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="cctv4k" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/3e9d06fd7244d950df5838750f1c6ac3456e172b51caca2c16d2282125b111e8.png?imageMogr2/format/webp" group-title="中央电视台",CCTV-4K
 https://hlsliveali-cdn.ysp.cctv.cn/B9C28AF1C5D7F611A29E4984339218DEAEACD5D7DA9BC10686FE998920FFC71F36FD3D4EC180F9B06D132EDBB477525FB20083DA3F3CD6FA45C654131C2DAEDEAA84DBD3B9B3C09915780BE061594B412200B313F5C499ABEB90DA1359EB6E23A0B2D8AC410119038A7412A6CC034B41/2000266302.m3u8
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="https://resources.yangshipin.cn/assets/oms/image/202306/d57905b93540bd15f0c48230dbbbff7ee0d645ff539e38866e2d15c8b9f7dfcd.png?imageMogr2/format/webp" group-title="中央电视台",CCTV-1 综合
